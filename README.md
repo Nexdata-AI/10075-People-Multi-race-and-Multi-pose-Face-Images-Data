@@ -3,7 +3,7 @@
 ## Description
 10,075 people - face images dataset includes people collected from many countries. Multiple photos of each person’s daily life are collected, and the gender, race, age, etc. of the person being collected are marked.This Dataset provides a rich resource for artificial intelligence applications. It has been validated by multiple AI companies and proves beneficial for achieving outstanding performance in real-world applications. Throughout the process of Dataset collection, storage, and usage, we have consistently adhered to Dataset protection and privacy regulations to ensure the preservation of user privacy and legal rights. All Dataset comply with regulations such as GDPR, CCPA, PIPL, and other applicable laws.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1402?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1402?source=Github
 
 
 ## Data size
